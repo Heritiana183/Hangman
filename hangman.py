@@ -1,16 +1,5 @@
 import random
 
-'''
-Jeu : Devine le mot (version améliorée)
-
-Mot prédéfini
-L utilisateur devine lettre par lettre
-Affiche la progression _ _ a _ _
-6 erreurs maximum
-Affiche les lettres déjà proposées
-Interdit de répéter une lettre déjà testée
-'''
-
 def welcome():
     print("Bienvenue dans mon petit jeu")
 
